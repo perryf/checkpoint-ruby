@@ -48,4 +48,4 @@ for i in friends
 end
 
 
-binding.pry
+# binding.pry
